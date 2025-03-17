@@ -1,12 +1,3 @@
-
-title: Supreme File Management
-author: Wes Caldwell
-email: Musicheardworldwide@gmail.com
-date: 2024-07-19
-version: 1.0
-license: MIT
-description: Big set of file management tools.
-"""
 import os
 import json
 import shutil
